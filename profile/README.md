@@ -13,7 +13,7 @@
 </div>
 
 ## 🌐 Official Website
-**Visit the DROMA website at: [https://droma01.github.io/](https://droma01.github.io/)**
+**Visit the DROMA website at: [https://droma01.github.io/DROMA](https://droma01.github.io/DROMA)**
 
 Explore the interactive web interface with comprehensive documentation, component details, and live examples.
 
