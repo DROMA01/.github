@@ -18,7 +18,7 @@
 Explore the interactive web interface with comprehensive documentation, component details, and live examples.
 
 ## **Official Repositories**
-- **Main Project**: [github.com/mugpeng/DROMA](https://github.com/DROMA01/DROMA)
+- **Main Project**: [github.com/mugpeng/DROMA01/DROMA](https://github.com/DROMA01/DROMA)
 - **Database**: [github.com/mugpeng/DROMA_DB](https://github.com/mugpeng/DROMA_DB)
 - **Data Management**: [github.com/mugpeng/DROMA_Set](https://github.com/mugpeng/DROMA_Set)
 - **Analytics**: [github.com/mugpeng/DROMA_R](https://github.com/mugpeng/DROMA_R)
